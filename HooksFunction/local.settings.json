@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "f47a0efb-8e11-4ba9-b62e-834bd4c3e4da",
+    "WEBSITE_NODE_DEFAULT_VERSION": "10.14.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=webhookpoststorage;AccountKey=yD2jNqdFeZd9P3FQLAbggHe2kiW8Rk+LJ729k2HM7O2jFYRQIrWUJlcf4CSrCgCOtpHhYPKaf1uBQHj617hIWQ==",
+    "WEBSITE_CONTENTSHARE": "hooksfunctionbe0c",
+    "AzureWebJobs.HttpTrigger1.Disabled": "true",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=webhookpoststorage;AccountKey=yD2jNqdFeZd9P3FQLAbggHe2kiW8Rk+LJ729k2HM7O2jFYRQIrWUJlcf4CSrCgCOtpHhYPKaf1uBQHj617hIWQ==",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "HooksFunction"
+  }
+}
